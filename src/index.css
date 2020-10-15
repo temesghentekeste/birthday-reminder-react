@@ -40,7 +40,7 @@ Variables
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
   --max-width: 1170px;
-  --fixed-width: 450px;
+ --fixed-width: 450px; 
   --clr-pink: #f28ab2;
 }
 /*
